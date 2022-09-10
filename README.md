@@ -1,1 +1,1 @@
-# Custom_User_creation_models_and_forms
+Create forms, models and processes related to user authentication, registration and confirmation/authorization
